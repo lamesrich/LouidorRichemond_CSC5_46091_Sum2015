@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=pr5
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/pr5
+CND_ARTIFACT_NAME_Debug=prb5
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/prb5
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=pr5.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/pr5.tar
+CND_PACKAGE_NAME_Debug=prb5.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/prb5.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=pr5
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/pr5
+CND_ARTIFACT_NAME_Release=prb5
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/prb5
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=pr5.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/pr5.tar
+CND_PACKAGE_NAME_Release=prb5.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/prb5.tar
 #
 # include compiler specific variables
 #

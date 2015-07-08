@@ -24,9 +24,9 @@ int main(int argc, char** argv)
     int width1, width2, length1, length2, area1, area2;
    
     //prompting using to enter length and width of rectangle 1
-    cout <<"Please enter width of rectangle1: ";
+    cout <<"Please enter width of rectangle 1: ";
     cin>>width1;
-    cout <<"Please enter length of rectangle1: ";
+    cout <<"Please enter length of rectangle 1: ";
     cin>>length1;
     
     area1=width1*length1;//calculating area 1
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     cout <<"Please enter width of rectangle 2: ";
     cin>>width2;
     
-    cout <<"Please enter length of rectangle 2 ";
+    cout <<"Please enter length of rectangle 2: ";
     cin>>length2;
     
     area2=width2*length2;//calculating area 2
@@ -44,12 +44,12 @@ int main(int argc, char** argv)
     if(area1>area2)
     {
      cout<<"Rectangle 1 area of "<<area1
-         <<" is greater area than Rectangle 2 area of: "<<area2;   
+         <<" have a greater area than Rectangle 2 area of: "<<area2;   
     }
     else if(area1<area2)
     {
        cout<<"Rectangle 1 area of "<<area1
-         <<" is less area than Rectangle 2 area of: "<<area2;   
+         <<" is less than the area of Rectangle 2 area of: "<<area2;   
     }
     else
     {

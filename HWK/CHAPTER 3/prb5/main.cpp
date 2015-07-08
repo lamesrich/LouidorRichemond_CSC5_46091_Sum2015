@@ -32,6 +32,7 @@ int main(int argc, char** argv)
     avg = hits/bats;//calculating players batting average
     cout <<"Player batting average is "<<showpoint<<fixed<<setprecision(4)<<avg;
     cout<<endl;
+    //exit stage right
     return 0;
 }
 

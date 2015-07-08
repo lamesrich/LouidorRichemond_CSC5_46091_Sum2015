@@ -1,0 +1,11 @@
+Package A: For $9.95 per month 10 hours of access are provided. 
+	   Additional hours are $2.00 per hour.
+
+Package B: For $14.95 per month 10 hours of access are provided. 
+	   Additional hours are $1.00 per hour.
+
+Package C: For $19.95 per month unlimited access is provided.
+
+customer name: lsdfkjf
+You have Package: c
+billed total: 19.95

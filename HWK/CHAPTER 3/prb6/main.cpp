@@ -30,5 +30,6 @@ int main(int argc, char** argv)
     //Displaying test average on console
     cout <<"test averages is "<<fixed<<setprecision(1)<<tstavg;
     cout<<endl;
+    //exit stage right
     return 0;
 }

@@ -25,21 +25,38 @@ int main(int argc, char** argv)
     cout<<"How many books did you purchase: ";
     cin>>book;
     
+    //deciding points earned for quanty of books purchased       
     if(book==0)
     {
         cout <<"0 pts earned: ";
-        if(book>=1 || book<=2)
-        {
-            cout <<"5 pts earned: ";
-        
-        }
-        else
-        {
-            
-        }
+    }
+    else if(book==1)
+    {
+        cout <<"5 pts earned: ";
         
     }
-
+    else if(book==2)
+    {
+        cout <<"15 pts earned: ";
+        
+    }
+    else if(book==3)
+    {
+        cout <<"30 pts earned: ";
+        
+    }
+    else if(book>=4)
+    {
+        cout <<"60 pts earned: ";
+        
+    }
+    else//checking to see if number is a negative number
+    {
+       cout <<"Enter positive numbers only! \nPlease run again:";
+    }
+        
+    
+    //exit stage right
     return 0;
 }
 
