@@ -6,6 +6,9 @@ Package B: For $14.95 per month 10 hours of access are provided.
 
 Package C: For $19.95 per month unlimited access is provided.
 
-customer name: lsdfkjf
-You have Package: c
-billed total: 19.95
+customer name: Richemond Louidor
+You have Package: A
+Hours used: 20
+overage: 10 
+hourly rate $2.00
+billed total: 29.95

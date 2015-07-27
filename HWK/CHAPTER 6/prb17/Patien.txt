@@ -1,0 +1,6 @@
+In-Patient
+Number of days spent in hospital: $122
+Daily rates: $250
+Hospital medication charges: $133
+Hospital charges: $499
+Patient total charges $31132

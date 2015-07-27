@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=prb23
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/prb23
+CND_ARTIFACT_NAME_Debug=prb22
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/prb22
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=prb23.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/prb23.tar
+CND_PACKAGE_NAME_Debug=prb22.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/prb22.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=prb23
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/prb23
+CND_ARTIFACT_NAME_Release=prb22
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/prb22
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=prb23.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/prb23.tar
+CND_PACKAGE_NAME_Release=prb22.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/prb22.tar
 #
 # include compiler specific variables
 #
