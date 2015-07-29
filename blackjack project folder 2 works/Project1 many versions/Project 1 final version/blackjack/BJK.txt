@@ -1,0 +1,46 @@
+PLAYER: loui
+
+
+			GAME: 1
+******************************Dealer ************************
+		Card 1: 9 Card 2: hidden 
+*************************************************************
+			loui
+		Card 1: 9 Card 2: 6
+
+		Hit (1) or Stay(2): 2
+
+Card 1: 11 Card 2: 9
+SUM = 20
+YOU LOSE
+Play Again y/n ?: 1
+
+
+			GAME: 2
+******************************Dealer ************************
+		Card 1: 2 Card 2: hidden 
+*************************************************************
+			loui
+		Card 1: 2 Card 2: 2
+
+YOU LOOSE
+DEALER BLACKJACK
+Card 1: 1 Card 2: 11
+SUM = 21
+Play Again y/n ?: 2
+
+
+			GAME: 3
+******************************Dealer ************************
+		Card 1: 6 Card 2: hidden 
+*************************************************************
+			loui
+		Card 1: 6 Card 2: 9
+
+		Hit (1) or Stay(2): 1
+Card 3: 7
+sum = 22 BUST!!! YOU LOSE
+YOU WIN
+Play Again y/n ?: n
+
+Thank You for Playing

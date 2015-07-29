@@ -1,0 +1,6 @@
+Player 1: kh1
+Player 2: kh2
+Player 3: Kh3
+
+Card 1: 11 Card 2: 11
+SUM = -2
