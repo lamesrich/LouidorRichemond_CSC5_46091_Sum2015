@@ -1,0 +1,2 @@
+Card 1: 2 Card 2: 3
+SUM = 5

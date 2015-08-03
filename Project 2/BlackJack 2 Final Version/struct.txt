@@ -1,0 +1,15 @@
+STRUCTS
+Last place bets and Chip totals
+l
+Chips : $45
+Bets : $5
+
+j
+Chips : $20
+Bets : $20
+
+r
+Chips : $70
+Bets : $10
+
+Thank You for Playing

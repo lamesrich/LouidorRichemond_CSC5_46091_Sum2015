@@ -1,0 +1,8 @@
+Vector
+Chips sort from smallest to largest
+Smallest to Largest
+Chips Remaining in game
+Chips
+$1
+$1
+$20
